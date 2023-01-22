@@ -1,0 +1,24 @@
+{
+    "name": "14-intro-js",
+    "version": "1.0.0",
+    "description": "En este curso.",
+    "main": "test2.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://jbaysi@github.com/cynthia"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://jbaysi@github.com/cynthia"
+    },
+    "homepage": "",
+    "type": "module"
+}
